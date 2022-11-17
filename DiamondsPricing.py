@@ -277,7 +277,7 @@ def predict(carat, cut, color, clarity, depth, table, x, y, z):
 
 #Basic title and image for the landing page, and a header with instructions.
 st.title('Diamond Price Predictor')
-st.image("""https://www.thestreet.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cq_auto:good%2Cw_1200/MTY4NjUwNDYyNTYzNDExNTkx/why-dominion-diamonds-second-trip-to-the-block-may-be-different.png"""))
+#st.image("""https://www.thestreet.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cq_auto:good%2Cw_1200/MTY4NjUwNDYyNTYzNDExNTkx/why-dominion-diamonds-second-trip-to-the-block-may-be-different.png"""))
 st.header('Enter the characteristics of the diamond:')
 
 
